@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#username\"}\n  (Session info: chrome=120.0.6099.71)",
-  "stacktrace": "\tGetHandleVerifier [0x00007FF7279D4D02+56194]\n\t(No symbol) [0x00007FF7279404B2]\n\t(No symbol) [0x00007FF7277E76AA]\n\t(No symbol) [0x00007FF7278316D0]\n\t(No symbol) [0x00007FF7278317EC]\n\t(No symbol) [0x00007FF727874D77]\n\t(No symbol) [0x00007FF727855EBF]\n\t(No symbol) [0x00007FF727872786]\n\t(No symbol) [0x00007FF727855C23]\n\t(No symbol) [0x00007FF727824A45]\n\t(No symbol) [0x00007FF727825AD4]\n\tGetHandleVerifier [0x00007FF727D4D5BB+3695675]\n\tGetHandleVerifier [0x00007FF727DA6197+4059159]\n\tGetHandleVerifier [0x00007FF727D9DF63+4025827]\n\tGetHandleVerifier [0x00007FF727A6F029+687785]\n\t(No symbol) [0x00007FF72794B508]\n\t(No symbol) [0x00007FF727947564]\n\t(No symbol) [0x00007FF7279476E9]\n\t(No symbol) [0x00007FF727938094]\n\tBaseThreadInitThunk [0x00007FFD4EA526AD+29]\n\tRtlUserThreadStart [0x00007FFD50CCAA68+40]\n"
-}
